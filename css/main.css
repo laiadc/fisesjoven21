@@ -686,6 +686,18 @@ a.back-to-top:hover, a.back-to-top:focus {
     max-width: 700px;
 }
 
+p {
+  font-weight: 400;
+  font-family: 'Lato', sans-serif;
+  margin: 0px;
+  font-size: 18px;
+  text-align: justify;
+}
+
+th{
+  font-size: 18px;
+}
+
 }
 
 .navbar-toggler {
@@ -749,7 +761,19 @@ a.back-to-top:hover, a.back-to-top:focus {
   }
 
   .container-table{
-    max-width: 400px;
+    max-width: 320px;
+}
+
+p {
+  font-weight: 400;
+  font-family: 'Lato', sans-serif;
+  margin: 0px;
+  font-size: 18px;
+  text-align: justify;
+}
+
+th{
+  font-size: 18px;
 }
 
 }
